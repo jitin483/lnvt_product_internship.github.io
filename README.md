@@ -1,1 +1,1 @@
-# lnvt_internship.github.io
+# lnvt_product_internship.github.io
